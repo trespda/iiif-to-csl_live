@@ -1,6 +1,6 @@
 javascript:(function () {
   // Adjust this to your GitHub Pages (or other) base URL
-  const BASE    = "https://github.com/trespda/iiif-to-csl_live/";
+  const BASE    = "https://raw.githubusercontent.com/trespda/iiif-to-csl_live/refs/heads/main/1_0_9/";
   const SNIFFER = BASE + "iiif_to_csl_sniffer_0_1_0.js";
   const BUNDLE  = BASE + "iiif_to_csl_browser_1_0_9.bundle.js";
 
